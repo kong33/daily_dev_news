@@ -3,5 +3,15 @@
     "date": "2026-03-10",
     "title": "txiki.js: tiny runtime, big energy",
     "path": "news/2026-03-10-txikijs.md"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "google workspace cli"
+    "path": "news/2026-03-12-google_workspace_cli.md"
+  },
+    {
+    "date": "2026-04-12",
+    "title": "LRU vs TTL"
+    "path": "news/2026-04-12-cache_strategy.md"
   }
 ]
