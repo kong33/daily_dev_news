@@ -113,7 +113,7 @@ In real systems, they are often used together.
 ## Why this is interesting
 
 I thought considering cache strategy is for backend, os .. optimization. <br/>
-But apperently, we should consider it on frontend side😮 <br/>
+But apperently, we should consider it on frontend side as well😮 <br/>
 
 - API response caching
 - database query caching
