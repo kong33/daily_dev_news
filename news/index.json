@@ -13,5 +13,10 @@
     "date": "2026-04-12",
     "title": "LRU vs TTL",
     "path": "news/2026-04-12-cache_strategy.md"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "npm vs pnpm vs yarn berry",
+    "path" : "news/2026-05-01-package_manager.md"
   }
 ]
