@@ -1,4 +1,4 @@
-# package manager : npm vs pnpm vs yarn berry 
+# package manager : npm vs pnpm vs yarn berry🩵
 
 **Date:** 2026-05-01  
 **Category:** CS / package manager / library / tools
